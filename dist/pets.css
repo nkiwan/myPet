@@ -1,0 +1,15 @@
+.jumbotron{
+    background-image:url("images/pattern1.jpg");
+    background-position: center;
+}
+
+/*.div-background-image-1{
+    background-image: url("images/marimo3.jpg");
+    background-position: center;
+
+}
+
+/* edit button state.btn-primary:hover {
+    background-color: #0069d9;
+    border-color: #0062cc;
+}
